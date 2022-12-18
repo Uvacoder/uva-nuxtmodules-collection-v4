@@ -1,5 +1,7 @@
 [![Screenshot 2022-08-21 at 23 47 1](https://user-images.githubusercontent.com/904724/185812304-f972bc80-05d5-4278-8cdd-7da0c7d3f9cc.png)](https://modules.nuxtjs.org)
 
+https://github.com/nuxt/modules
+
 # Nuxt Modules
 
 [![automated](https://flat.badgen.net/badge/publish/automated/green)](#)
