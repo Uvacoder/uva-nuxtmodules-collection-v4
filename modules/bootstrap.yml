@@ -3,8 +3,8 @@ description: Add Bootstrap to your Nuxt app in seconds.
 repo: bootstrap-vue/bootstrap-vue
 npm: bootstrap-vue
 icon: bootstrap.png
-github: https://github.com/bootstrap-vue/bootstrap-vue
-website: https://bootstrap-vue.org/docs#nuxtjs-module
+github: https://github.com/uvacoder/uva-test-modules-new
+website: https://github.com/uvacoder
 learn_more: ''
 category: UI
 type: 3rd-party
