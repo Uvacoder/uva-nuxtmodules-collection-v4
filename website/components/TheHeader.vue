@@ -3,8 +3,8 @@
     <h1
       class="text-display-5 sm:text-display-4 md:text-display-3 pb-1 mb-2 md:mb-4 font-serif overflow-ellipsis overflow-hidden"
     >
-      Explore
-      <span class="text-primary dark:text-primary">Nuxt</span> Modules
+      Explore these
+      <span class="text-primary dark:text-primary">uvacoder</span> Bookmarks
     </h1>
     <p
       class="text-body-md sm:text-body-lg md:text-body-xl max-w-3xl text-primary-darker dark:text-secondary-lightest"
